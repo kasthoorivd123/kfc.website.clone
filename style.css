@@ -1,0 +1,370 @@
+body{
+    margin:0;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    cursor:pointer;
+    justify-content: center;
+    align-items: center;
+}
+.header-section{
+    position: fixed;
+    width:100%;
+    height:150px;
+    background-color:white ;
+
+}
+.header1{
+    font-size:medium;
+    font-weight: 500;
+    padding-top: 10px;
+
+}
+
+.location-image{
+    margin-left:450px;
+}
+.location-button{
+    border-radius: 10rem;
+    height:35px;
+    font-size:12px;
+    background-color: black;
+    color: #fff;
+    padding:10px;
+}
+.header2{
+    
+    height: 82px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 83px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin-left: 20px;
+}
+.header2-left{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    width: 201px;
+    color: black;
+}
+
+.bucket{
+    height:50px;
+}
+.zero{
+    font-size: 15px;
+}
+.signin{
+    font-size: 15px;
+
+}
+
+.main-top{
+    display:flex;
+     width:100%;
+    height:50px;
+    padding-top:170px;
+    color: #fff;
+    background-color: black;
+    
+
+   
+}
+.order{
+    margin-left: 500px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.start{
+    border-radius: 10rem;
+    margin-left: 15px;
+    background-color: #e4002b;
+    color:#fff;
+    padding:10px;
+    margin-top: -5px;
+    width:200px;
+
+
+}
+.start :hover{
+background-color: tomato;
+}
+.browse{
+    margin-top: 150px;
+    font-size:xx-large;
+    font-weight: 700;
+    margin-left: 302px;
+}
+.hr{
+    width:55%;
+    margin-left: 668px;
+    margin-top: -41px;
+}
+.top{
+    margin-top: 100px;
+}
+.top-images1{
+   height:190px;
+   margin-left:302px ;
+}
+.top-images{
+    height:190px;
+    margin-left: 20px;
+}
+.inter{
+    margin-left: 314px;
+    font-weight: 800;
+}
+.inter1{
+    margin-left: 100px;
+    font-weight: 800;
+}
+.inter2{
+    margin-left: 92px;
+    font-weight: 800;
+}
+.inter3{
+    margin-left: 150px;
+    font-weight:800;
+}
+.bottom{
+    margin-top: 50px;
+}
+.top-images2{
+height:190px;
+margin-left: 302px;
+}
+.top-2one{
+    height:190px;
+    margin-left: 20px;
+}
+.top-2two{
+    height:129px;
+    margin-left: 46px;
+}
+.outer{
+    margin-left: 400px;
+    font-weight: 800;
+}
+.outer1{
+    margin-left: 173px;
+    font-weight: 800;
+}
+.outer2{
+    margin-left: 171px;
+    font-weight: 800;
+}
+.outer3{
+    margin-left: 150px;
+    font-weight:500;
+}
+footer{
+    background-color:#28292d;
+    width: 100%;
+    height: 1199px;
+    margin-top: 83px;
+
+}
+.footer-1{
+    height: 100px;
+}
+
+
+.exclusive{
+    color:#fff;
+    font-size: 30px;
+    margin-left: 197px;
+    font-weight: 900;
+}
+.view{
+    margin-left: 700px;
+    color: #fff;
+
+}
+.view-image{
+    height:216px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.view-image1{
+    height:216px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.one{
+    margin-top: -7px;
+    margin-left: 1138px;
+    background-color: white;
+    width: 284px;
+    height: 144px;
+    border-radius: 7px;
+}
+.flat{
+    margin-left: 24px;
+    font-size: 24px;
+    color: rgb(203, 36, 36);
+    font-weight: 1000;
+}
+.flat-1{
+    margin-left: 10px;
+}
+.view-details{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.offer{
+    height: 40px;
+    border-radius: 25px;
+    background-color: #fff;
+    width: 125px;
+}
+.two{
+    background-color: white;
+    width: 284px;
+    height: 144px;
+    margin-top: -144px;
+    border-radius: 7px;
+    margin-left: 827px;
+}
+.three{
+    background-color: white;
+    width: 284px;
+    height: 144px;
+    margin-top: -145px;
+    border-radius: 7px;
+    margin-left: 515px;
+}
+.four{
+    background-color: white;
+    width: 284px;
+    height: 144px;
+    margin-top: -145px;
+    border-radius: 7px;
+    margin-left: 202px;
+}
+.forward{
+    height: 50px;
+    margin-left: 292px;
+    margin-top: -139px;
+    background-color:white;
+    border-radius: 25px;
+}
+.backward{
+    height:50px;
+    background-color: white;
+    border-radius:25px ;
+    margin-left: -58px;
+    margin-top:-139px ;
+}
+.down{
+    margin-top: 80px;
+    width:73%;
+}
+.last{
+    height:200px;
+}
+.final-product{
+    height:250px;
+    width:100%;
+}
+.ab{
+  
+
+    height: 250px;
+    width: 463px;
+    margin-left: 994px;
+}
+.baba{
+    display: inline-block;
+    font-size:small ;
+   
+}
+.google-play{
+    margin-left: 69px;
+}
+.bc{
+    margin-left: 794px;
+    height: 250px;
+    width: 197px;
+    margin-top: -265px;
+}
+.cd{
+    
+    width:150px;
+    height:250px;
+    margin-top: -266px;
+    margin-left: 644px;
+}
+.de{
+    
+    width:150px;
+    height:250px;
+    margin-top: -267px;
+    margin-left: 494px;
+}
+.ef{
+
+    width:150px;
+    height:250px;
+    margin-top: -266px;
+    margin-left: 345px;
+}
+.fg{
+    
+    margin-top:-250px ;
+    width:340px;
+    height:250px;
+}
+.google-store{
+    display:inline-block;
+    margin-left: 20px;
+}
+.find-a-kfc{
+     color:white;
+     font-size: small;
+}
+.support{
+    list-style: none;
+    font-weight: 400;
+    margin-left: -24px;
+    color:white
+}
+.kfc-food{
+    list-style: none;
+    font-weight: 400;
+    margin-left: -24px;
+    color:white;
+}
+.legal{
+    list-style: none;
+    font-weight: 400;
+    margin-left: -24px;
+    color:white;
+}
+.king{
+    list-style: none;
+    font-weight: 400;
+    margin-left: -24px;
+    color:white;
+}
+.kfc-grandpa{
+    margin-left: 238px;
+}
+.insta{
+    margin-left: 1250px;
+    margin-top: 10px;
+}
+.copyright{
+    color: white;
+    font-size: small;
+    margin-left: 562px;
+}
+.bg{
+    width:100%;
+}
